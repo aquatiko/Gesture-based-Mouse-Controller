@@ -6,3 +6,4 @@
 3. When the cursor is at desired position, blink both your eyes for 1-2 sec for a left click at the position.
 4. When the cursor is at desired position, raise both your eyeBrows for 1-2 sec for a right click at the position.
 5. Press 'q' to exit and 'r' to reset background (remember the white parts in threshold window is what the feed is detecting, so make sure it's only your hand)
+6. You can self calibrate(set threshold of) mouse movement speed and other parameters for better senstivity. 
